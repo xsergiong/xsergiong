@@ -10,7 +10,7 @@
 
 > <p style="color: #FF5733">HTML</p>
 
-> <p style="color: #F0DB4F"></p>
+> <p style="color: #F0DB4F">Javscript</p>
 
 > <p style="color: #2965f1">CSS</p>
 
