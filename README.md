@@ -6,13 +6,13 @@
 
 ## Studying:
 
-> Unity
+> <p>Unity</p>
 
-> HTML
+> <p style="color: #FF5733">HTML</p>
 
-> JavaScript
+> <p style="color: #F0DB4F"></p>
 
-> CSS
+> <p style="color: #2965f1">CSS</p>
 
 > [!Warning]
 > Under the age of employement
