@@ -7,5 +7,5 @@ About me
 - BackEnd student
 - I love challenges and following instructions
 
-<svg width="100" height="100" alt="Csharp Logo" xmlns="./csharp.svg"></svg>
-<svg width="100" height="100" alt="Unity Logo" xmlns="./unity.svg"></svg>
+<img width="165" height="165" alt="Csharp Logo" src="./csharp.svg"></img>
+<img width="448" height="165" alt="Unity Logo" src="./unity.svg"></img>
